@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**marinaecclis/Marinaecclis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋, im a skill issue 
 - 🔭 I’m currently working on a private server
 - 🌱 I’m currently learning how to fix my skill issue
 - 👯 I’m looking to collaborate on nothing
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 🤷
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i forgo☠️
--->
