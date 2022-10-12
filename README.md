@@ -7,3 +7,4 @@
 - 📫 How to reach me: 🤷
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i forgo☠️
+https://raw.githubusercontent.com/marinaecclis/Marinaecclis/main/UI_Gacha_AvatarImg_Layla.png
